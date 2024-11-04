@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA,Java-Microservices,Java Fullstack DEveloper**
 
-- 👯 I’m looking to collaborate on **cyber security project**
+- 👯 I’m looking to collaborate on *Java Microservices project**
 
 - 💬 Ask me about **Java,Oops,Springboot,Microservices,Hibernate,Mysql,SQL,HTML,CSS,JvaScript,React.js,Spring Security**
 
