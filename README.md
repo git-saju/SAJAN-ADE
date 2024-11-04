@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm SAJAN ADE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Fullstack DEveloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajanaade&label=Profile%20views&color=0e75b6&style=flat" alt="sajanaade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **chat_bot**
+- 🔭 I’m currently working on **Java Microservises**
 
-- 🌱 I’m currently learning **DSA,ethical hacking,full stack devlopement**
+- 🌱 I’m currently learning **DSA,Java-Microservices,Java Fullstack DEveloper**
 
 - 👯 I’m looking to collaborate on **cyber security project**
 
-- 💬 Ask me about **c,c++,object-oriented-programing,computer hardware and jdbc conectivity,bug_hunting,and database**
+- 💬 Ask me about **Java,Oops,Springboot,Microservices,Hibernate,Mysql,SQL,HTML,CSS,JvaScript,React.js,Spring Security**
 
 - 📫 How to reach me **sajanade2001@gmail.com**
 
